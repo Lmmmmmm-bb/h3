@@ -6,7 +6,7 @@
     "dev": "undocs dev"
   },
   "devDependencies": {
-    "undocs": "npm:undocs-nightly@0.10.1-20260724-165953-a1218b4"
+    "undocs": "npm:undocs-nightly@0.10.1-20260724-174655-fd9e76f"
   },
   "packageManager": "pnpm@11.17.0"
 }

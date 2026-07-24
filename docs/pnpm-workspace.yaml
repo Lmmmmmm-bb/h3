@@ -4,5 +4,5 @@ allowBuilds:
   esbuild: false
   vue-demi: false
 minimumReleaseAgeExclude:
-  - mermaid-compact@0.0.1
-  - undocs-nightly@0.10.1-20260724-165953-a1218b4
+  - mermaid-compact*
+  - undocs-nightly*

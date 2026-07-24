@@ -19,7 +19,7 @@ Most of the time, you will use `useSession` to manipulate the session.
 
 ## Initialize a Session
 
-To initialize a session, you need to use `useSession` in an [event handler](/guide/handler):
+To initialize a session, you need to use `useSession` in an [event handler](/guide/basics/handler):
 
 ```js
 import { useSession } from "h3";
