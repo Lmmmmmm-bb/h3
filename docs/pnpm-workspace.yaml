@@ -1,8 +1,8 @@
 packages: []
-ignoredBuiltDependencies:
-  - "@parcel/watcher"
-  - "@tailwindcss/oxide"
-  - esbuild
-  - vue-demi
-onlyBuiltDependencies:
-  - better-sqlite3
+allowBuilds:
+  "@parcel/watcher": false
+  esbuild: false
+  vue-demi: false
+minimumReleaseAgeExclude:
+  - mermaid-compact@0.0.1
+  - undocs-nightly@0.10.1-20260724-165953-a1218b4
